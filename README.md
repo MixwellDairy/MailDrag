@@ -2,6 +2,10 @@
 
 MailDrag Pro is a lightweight, intuitive, and fully responsive drag-and-drop email template builder. Built with Vanilla JavaScript and Tailwind CSS, it allows users to visually assemble, customize, and export professional HTML email campaigns without writing a single line of code.
 
+## 📎 Website Demo
+
+[Click Here]([https://www.codecademy.com](https://18546563-s.codehs.io/index.html)) for demo
+
 ## ✨ Features
 
 * **Drag & Drop Interface:** Easily drag blocks (typography, media, marketing elements, structural dividers) directly onto the canvas.
