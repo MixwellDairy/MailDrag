@@ -61,3 +61,5 @@ If you've split the project into individual files, the structure looks like this
 ├── style.css     # Custom CSS for scrollbars, drag-and-drop visuals, and animations
 ├── script.js     # The core application logic, state management, and HTML generation
 └── README.md     # Project documentation
+
+This README.md was AI-Generated bc i cant write this well (:
