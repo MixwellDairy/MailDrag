@@ -4,7 +4,7 @@ MailDrag Pro is a lightweight, intuitive, and fully responsive drag-and-drop ema
 
 ## 📎 Website Demo
 
-[Click Here]([https://www.codecademy.com](https://18546563-s.codehs.io/index.html)) for demo
+[Click Here](https://18546563-s.codehs.io/index.html) for demo
 
 ## ✨ Features
 
